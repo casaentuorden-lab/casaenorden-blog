@@ -1,0 +1,65 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F1E9D8"/>
+
+  <!-- pared -->
+  <rect x="0" y="0" width="1200" height="620" fill="#F8F3E9"/>
+  <!-- suelo -->
+  <rect x="0" y="620" width="1200" height="280" fill="#2F4A3C"/>
+  <rect x="0" y="620" width="1200" height="14" fill="#243A2F"/>
+
+  <!-- barra del armario -->
+  <rect x="120" y="150" width="960" height="16" rx="8" fill="#2F4A3C"/>
+
+  <!-- perchas con prendas -->
+  <g stroke="#2F4A3C" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M215 166 v20 M215 186 q0 -14 40 -14 q40 0 40 14" />
+    <path d="M375 166 v20 M375 186 q0 -14 40 -14 q40 0 40 14" />
+    <path d="M535 166 v20 M535 186 q0 -14 40 -14 q40 0 40 14" />
+    <path d="M695 166 v20 M695 186 q0 -14 40 -14 q40 0 40 14" />
+    <path d="M855 166 v20 M855 186 q0 -14 40 -14 q40 0 40 14" />
+  </g>
+  <g fill="#F1E9D8" stroke="#2F4A3C" stroke-width="4">
+    <path d="M200 200 h70 l14 60 l-14 60 h-70 l-14 -60 z"/>
+    <path d="M360 200 h70 l14 60 l-14 60 h-70 l-14 -60 z" fill="#F8F3E9"/>
+    <path d="M520 200 h70 l14 60 l-14 60 h-70 l-14 -60 z"/>
+    <path d="M680 200 h70 l14 60 l-14 60 h-70 l-14 -60 z" fill="#F8F3E9"/>
+    <path d="M840 200 h70 l14 60 l-14 60 h-70 l-14 -60 z"/>
+  </g>
+  <g fill="#C4923D">
+    <circle cx="235" cy="228" r="6"/>
+    <circle cx="555" cy="228" r="6"/>
+    <circle cx="875" cy="228" r="6"/>
+  </g>
+
+  <!-- organizador colgante de tela -->
+  <rect x="530" y="360" width="140" height="180" rx="10" fill="#F1E9D8" stroke="#C4923D" stroke-width="6"/>
+  <line x1="530" y1="405" x2="670" y2="405" stroke="#C4923D" stroke-width="4"/>
+  <line x1="530" y1="450" x2="670" y2="450" stroke="#C4923D" stroke-width="4"/>
+  <line x1="530" y1="495" x2="670" y2="495" stroke="#C4923D" stroke-width="4"/>
+  <line x1="600" y1="360" x2="600" y2="540" stroke="#C4923D" stroke-width="4"/>
+
+  <!-- cajas apilables sobre el suelo/balda -->
+  <g>
+    <rect x="150" y="700" width="220" height="90" rx="10" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="150" y="620" width="220" height="80" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="220" y="640" width="80" height="16" rx="4" fill="#C4923D"/>
+  </g>
+  <g>
+    <rect x="420" y="700" width="220" height="90" rx="10" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="420" y="620" width="220" height="80" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="490" y="640" width="80" height="16" rx="4" fill="#C4923D"/>
+  </g>
+
+  <!-- zapatero bajo -->
+  <g>
+    <rect x="800" y="740" width="240" height="50" rx="8" fill="#F1E9D8" stroke="#C4923D" stroke-width="5"/>
+    <rect x="800" y="680" width="240" height="50" rx="8" fill="#F1E9D8" stroke="#C4923D" stroke-width="5"/>
+    <ellipse cx="850" cy="705" rx="26" ry="12" fill="#2F4A3C"/>
+    <ellipse cx="920" cy="705" rx="26" ry="12" fill="#2F4A3C"/>
+    <ellipse cx="990" cy="705" rx="26" ry="12" fill="#2F4A3C"/>
+  </g>
+
+  <text x="600" y="875" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#F1E9D8" opacity="0.55">
+    Casa en Orden — sustituye por tu fotografía real
+  </text>
+</svg>

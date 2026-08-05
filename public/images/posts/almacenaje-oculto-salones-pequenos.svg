@@ -1,0 +1,57 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F1E9D8"/>
+
+  <!-- pared -->
+  <rect x="0" y="0" width="1200" height="620" fill="#F8F3E9"/>
+  <!-- suelo -->
+  <rect x="0" y="620" width="1200" height="280" fill="#2F4A3C"/>
+  <rect x="0" y="620" width="1200" height="14" fill="#243A2F"/>
+
+  <!-- consola / mueble tv con cestas debajo -->
+  <rect x="90" y="380" width="420" height="24" fill="#2F4A3C"/>
+  <g stroke="#2F4A3C" stroke-width="10" stroke-linecap="round">
+    <line x1="130" y1="404" x2="120" y2="500"/>
+    <line x1="470" y1="404" x2="480" y2="500"/>
+  </g>
+  <g>
+    <rect x="120" y="440" width="120" height="90" rx="12" fill="#F1E9D8" stroke="#C4923D" stroke-width="5"/>
+    <rect x="260" y="440" width="120" height="90" rx="12" fill="#F1E9D8" stroke="#C4923D" stroke-width="5"/>
+    <line x1="130" y1="465" x2="230" y2="465" stroke="#C4923D" stroke-width="3"/>
+    <line x1="270" y1="465" x2="370" y2="465" stroke="#C4923D" stroke-width="3"/>
+  </g>
+
+  <!-- puf otomana con tapa abierta -->
+  <g>
+    <rect x="600" y="520" width="220" height="140" rx="20" fill="#2F4A3C"/>
+    <ellipse cx="710" cy="500" rx="120" ry="26" fill="#F1E9D8" stroke="#C4923D" stroke-width="6"/>
+    <path d="M600 520 q110 -70 220 0" fill="none" stroke="#C4923D" stroke-width="6"/>
+    <rect x="640" y="560" width="140" height="60" rx="10" fill="#F8F3E9" opacity="0.7"/>
+  </g>
+
+  <!-- mesa de centro elevable -->
+  <g>
+    <rect x="880" y="560" width="240" height="18" rx="6" fill="#2F4A3C"/>
+    <rect x="900" y="578" width="18" height="100" fill="#2F4A3C"/>
+    <rect x="1082" y="578" width="18" height="100" fill="#2F4A3C"/>
+    <rect x="920" y="600" width="140" height="16" rx="6" fill="#C4923D" opacity="0.8"/>
+  </g>
+
+  <!-- caja bajo el sofa con ruedas -->
+  <g>
+    <rect x="880" y="740" width="260" height="70" rx="14" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="6"/>
+    <circle cx="910" cy="818" r="12" fill="#2F4A3C"/>
+    <circle cx="1110" cy="818" r="12" fill="#2F4A3C"/>
+    <line x1="960" y1="740" x2="960" y2="810" stroke="#C4923D" stroke-width="3"/>
+    <line x1="1060" y1="740" x2="1060" y2="810" stroke="#C4923D" stroke-width="3"/>
+  </g>
+
+  <!-- banco con arcon -->
+  <g>
+    <rect x="120" y="700" width="360" height="110" rx="16" fill="#F1E9D8" stroke="#C4923D" stroke-width="6"/>
+    <rect x="150" y="720" width="300" height="14" rx="6" fill="#C4923D" opacity="0.6"/>
+  </g>
+
+  <text x="600" y="870" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#F1E9D8" opacity="0.55">
+    Casa en Orden — sustituye por tu fotografía real
+  </text>
+</svg>
