@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #f1e9d8;
+  color: #2f4a3c;
+}
+
+/* Estilos de tipografia para el cuerpo de los articulos en Markdown */
+.article-content {
+  color: #2f4a3c;
+  line-height: 1.75;
+}
+
+.article-content > * + * {
+  margin-top: 1.25em;
+}
+
+.article-content h2 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #2f4a3c;
+  margin-top: 2em;
+}
+
+.article-content h3 {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #2f4a3c;
+  margin-top: 1.75em;
+}
+
+.article-content p {
+  font-size: 1.0625rem;
+}
+
+.article-content a {
+  color: #a6772b;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: #c4923d;
+  text-underline-offset: 2px;
+}
+
+.article-content a:hover {
+  color: #c4923d;
+}
+
+.article-content strong {
+  color: #2f4a3c;
+  font-weight: 700;
+}
+
+.article-content ul,
+.article-content ol {
+  padding-left: 1.375em;
+}
+
+.article-content ul {
+  list-style-type: disc;
+}
+
+.article-content ol {
+  list-style-type: decimal;
+}
+
+.article-content li + li {
+  margin-top: 0.5em;
+}
+
+.article-content blockquote {
+  border-left: 3px solid #c4923d;
+  padding-left: 1em;
+  font-style: italic;
+  color: #3e6350;
+}
+
+.article-content img {
+  border-radius: 0.75rem;
+}
+
+.article-content hr {
+  border-color: rgba(47, 74, 60, 0.15);
+}

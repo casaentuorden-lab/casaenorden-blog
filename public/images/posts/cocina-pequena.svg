@@ -1,0 +1,67 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F1E9D8"/>
+
+  <!-- pared -->
+  <rect x="0" y="0" width="1200" height="620" fill="#F8F3E9"/>
+  <!-- encimera -->
+  <rect x="0" y="620" width="1200" height="280" fill="#2F4A3C"/>
+  <rect x="0" y="620" width="1200" height="14" fill="#243A2F"/>
+
+  <!-- balda superior -->
+  <rect x="80" y="180" width="1040" height="18" fill="#2F4A3C"/>
+  <!-- botes en la balda -->
+  <g>
+    <rect x="130" y="90" width="90" height="90" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="4"/>
+    <rect x="150" y="70" width="50" height="22" rx="6" fill="#C4923D"/>
+
+    <rect x="250" y="105" width="75" height="75" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="4"/>
+    <rect x="266" y="88" width="42" height="20" rx="6" fill="#C4923D"/>
+
+    <rect x="355" y="95" width="80" height="85" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="4"/>
+    <rect x="373" y="76" width="44" height="21" rx="6" fill="#C4923D"/>
+
+    <rect x="820" y="100" width="80" height="80" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="4"/>
+    <rect x="838" y="82" width="44" height="20" rx="6" fill="#C4923D"/>
+
+    <rect x="930" y="90" width="90" height="90" rx="10" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="4"/>
+    <rect x="950" y="70" width="50" height="22" rx="6" fill="#C4923D"/>
+  </g>
+
+  <!-- ganchos con utensilios -->
+  <g stroke="#2F4A3C" stroke-width="5" fill="none" stroke-linecap="round">
+    <line x1="560" y1="198" x2="560" y2="240"/>
+    <circle cx="560" cy="252" r="12" fill="#C4923D" stroke="none"/>
+    <line x1="640" y1="198" x2="640" y2="250"/>
+    <circle cx="640" cy="262" r="12" fill="#C4923D" stroke="none"/>
+    <line x1="720" y1="198" x2="720" y2="235"/>
+    <circle cx="720" cy="247" r="12" fill="#C4923D" stroke="none"/>
+  </g>
+
+  <!-- cesta organizadora sobre encimera -->
+  <rect x="140" y="700" width="260" height="130" rx="16" fill="#F1E9D8" stroke="#C4923D" stroke-width="6"/>
+  <line x1="180" y1="700" x2="180" y2="830" stroke="#C4923D" stroke-width="4"/>
+  <line x1="240" y1="700" x2="240" y2="830" stroke="#C4923D" stroke-width="4"/>
+  <line x1="300" y1="700" x2="300" y2="830" stroke="#C4923D" stroke-width="4"/>
+  <line x1="360" y1="700" x2="360" y2="830" stroke="#C4923D" stroke-width="4"/>
+
+  <!-- organizador giratorio -->
+  <circle cx="620" cy="770" r="90" fill="#F1E9D8" stroke="#C4923D" stroke-width="6"/>
+  <circle cx="620" cy="770" r="30" fill="#C4923D"/>
+  <circle cx="620" cy="710" r="16" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="3"/>
+  <circle cx="672" cy="740" r="16" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="3"/>
+  <circle cx="672" cy="800" r="16" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="3"/>
+  <circle cx="568" cy="800" r="16" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="3"/>
+  <circle cx="568" cy="740" r="16" fill="#F8F3E9" stroke="#2F4A3C" stroke-width="3"/>
+
+  <!-- botes apilables -->
+  <g>
+    <rect x="820" y="660" width="120" height="80" rx="10" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="820" y="740" width="120" height="80" rx="10" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="960" y="660" width="120" height="80" rx="10" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="5"/>
+    <rect x="960" y="740" width="120" height="80" rx="10" fill="#F1E9D8" stroke="#2F4A3C" stroke-width="5"/>
+  </g>
+
+  <text x="600" y="875" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#F1E9D8" opacity="0.55">
+    Casa en Orden — sustituye por tu fotografía real
+  </text>
+</svg>
