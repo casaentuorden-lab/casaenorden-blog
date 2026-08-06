@@ -48,7 +48,12 @@ export function getAllPostSlugs(): string[] {
 
 export async function getPostBySlug(slug: string): Promise<Post> {
   const { data, content } = readPostFile(slug);
-  const processedContent = await remark().use(remarkHtml).process(content);
+  // sanitize:false permite el HTML en bruto que usamos en los articulos
+  // (tarjetas de producto). El contenido de content/posts lo escribimos
+  // nosotros mismos, no viene de usuarios, asi que es seguro.
+  const processedContent = await remark()
+    .use(remarkHtml, { sanitize: false })
+    .process(content);
   const rawHtml = processedContent.toString();
 
   // Los enlaces de afiliado deben abrir en pestaña nueva y llevar rel="sponsored"

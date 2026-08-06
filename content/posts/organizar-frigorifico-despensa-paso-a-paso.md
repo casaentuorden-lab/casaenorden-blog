@@ -20,19 +20,37 @@ En lugar de guardar cada cosa donde haya hueco, fija una zona para cada tipo de 
 
 Las frutas, verduras cortadas o los restos de comida sueltos son los que más desorden visual generan. Unos contenedores transparentes y apilables, pensados para frigorífico, agrupan por categoría y dejan ver el contenido sin tener que abrir cada uno.
 
-*Producto recomendado: set de contenedores transparentes apilables para frigorífico.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/contenedores-transparentes-apilables-frigorifico.jpg" alt="KICHLY Organizadores y Contenedores Transparentes Apilables para Frigorífico" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">KICHLY Organizadores y Contenedores Transparentes Apilables (Pack de 6)</p>
+    <a href="https://amzn.to/4wO5ilq" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## Paso 4: organiza las latas y botes en cascada
 
 Un organizador de latas escalonado hace que se vea la etiqueta de todas a la vez, en lugar de tener que sacarlas una a una para leer qué hay detrás. Funciona igual de bien en el frigorífico que en un armario bajo.
 
-*Producto recomendado: organizador de latas en cascada de 3 niveles.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/organizador-latas-cascada.jpg" alt="Yumkfoi Organizador de Latas de Bambú de 3 Niveles" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">Yumkfoi Organizador de Latas de Bambú de 3 Niveles</p>
+    <a href="https://amzn.to/4w6JnVn" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## Paso 5: pasa la despensa a botes herméticos uniformes
 
 Pasta, arroz, legumbres y cereales duran más y ocupan menos en botes herméticos del mismo tamaño que en sus paquetes originales, de formas y alturas distintas. Es el cambio que más se nota a simple vista.
 
-*Producto recomendado: set de botes herméticos apilables para despensa.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/dispensador-cereales-despensa.jpg" alt="Vtopmart Botes de Almacenaje para Despensa, Juego de 24 con Etiquetas" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">Vtopmart Botes de Almacenaje para Despensa, Juego de 24 con Etiquetas</p>
+    <a href="https://amzn.to/3Txe2hd" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## Paso 6: etiqueta lo que no se identifica a simple vista
 

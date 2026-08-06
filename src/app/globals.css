@@ -89,3 +89,72 @@ body {
 .article-content hr {
   border-color: rgba(47, 74, 60, 0.15);
 }
+
+/* Tarjeta de producto recomendado (enlace de afiliado) dentro de un articulo */
+.article-content .product-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  border-radius: 1rem;
+  border: 1px solid rgba(196, 146, 61, 0.35);
+  background-color: #f8f3e9;
+  padding: 1.25rem;
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .article-content .product-card {
+    flex-direction: row;
+    text-align: left;
+  }
+}
+
+.article-content .product-card-img {
+  width: 9rem;
+  height: 9rem;
+  border-radius: 0.75rem;
+  object-fit: cover;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+.article-content .product-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+@media (min-width: 640px) {
+  .article-content .product-card-body {
+    align-items: flex-start;
+  }
+}
+
+.article-content .product-card-name {
+  font-family: var(--font-playfair), Georgia, serif;
+  font-weight: 700;
+  color: #2f4a3c;
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.article-content .product-card-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border-radius: 999px;
+  background-color: #c4923d;
+  color: #f1e9d8 !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 0.55rem 1.2rem;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease;
+}
+
+.article-content .product-card-button:hover {
+  background-color: #a6772b;
+  color: #f1e9d8 !important;
+}

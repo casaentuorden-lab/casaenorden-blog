@@ -12,7 +12,13 @@ En un salón pequeño, cada mueble debería tener que justificar el espacio que 
 
 Es probablemente el mueble con mejor relación entre lo que ocupa y lo que guarda: sirve como asiento extra, como reposapiés y, por dentro, como caja fuerte para mantas, cojines de repuesto o juguetes si hay niños en casa.
 
-*Producto recomendado: puf otomana con almacenaje interior y tapa.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/puf-otomana-almacenaje.jpg" alt="SONGMICS Puf Otomana Redondo con Almacenaje Interior, 65 L" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">SONGMICS Puf Otomana Redondo con Almacenaje Interior, 65 L</p>
+    <a href="https://amzn.to/4g0rced" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 2. Una mesa de centro elevable
 
@@ -22,7 +28,13 @@ Las mesas de centro con tapa elevable ganan doble función: subes la superficie 
 
 El hueco bajo el mueble de la televisión casi siempre se queda vacío o, peor, se llena de cables a la vista. Dos o tres cestas de fibra a juego con la decoración lo convierten en almacenaje real para mantas, álbumes o juegos de mesa.
 
-*Producto recomendado: set de cestas de fibra natural para bajo mueble.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/cestas-fibra-natural-bajo-mueble.jpg" alt="HMF Cesta de Almacenaje Trenzada de Jacinto de Agua, Juego de 2" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">HMF Cesta de Almacenaje Trenzada de Jacinto de Agua, Juego de 2</p>
+    <a href="https://amzn.to/4wgd5rh" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 4. Un banco con arcón junto a la ventana
 
@@ -32,7 +44,13 @@ Si tienes un hueco bajo ventana sin usar, un banco con arcón cumple tres funcio
 
 El espacio bajo el sofá suele estar vacío por pura incomodidad de acceso. Una caja plana con ruedas, pensada para ese hueco, resuelve justo eso: se desliza sin esfuerzo y es ideal para lo que usas poco (mantas de invierno, juegos de mesa grandes).
 
-*Producto recomendado: caja organizadora plana con ruedas para bajo el sofá.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/caja-organizadora-ruedas-bajo-sofa.jpg" alt="PHINOX Caja de Almacenaje con Ruedas, Metálica, 2 Piezas, Blanca" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">PHINOX Caja de Almacenaje con Ruedas, Metálica (2 Piezas)</p>
+    <a href="https://amzn.to/4w7N1hF" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 6. Estanterías hasta el techo en vez de muebles anchos
 

@@ -16,19 +16,37 @@ Cada prenda doblada en una pila es una prenda que vas a dejar de ver (y de usar)
 
 Este es, con diferencia, el truco que más espacio libera por menos esfuerzo. Las perchas de madera o plástico grueso desperdician centímetros de barra que no tienes. Sustituirlas todas por el mismo modelo fino también da a tu armario ese aire ordenado de tienda de ropa.
 
-*Producto recomendado: pack de perchas finas de terciopelo antideslizantes.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/perchas-finas-antideslizantes-terciopelo.jpg" alt="Amazon Basics Paquete de 50 perchas antideslizantes de terciopelo" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">Amazon Basics Paquete de 50 perchas antideslizantes de terciopelo</p>
+    <a href="https://amzn.to/4wL0f5j" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 3. Un organizador colgante para lo que no necesita percha
 
 Camisetas, ropa de deporte o pijamas no necesitan estar doblados en una balda donde se desordenan solos. Un organizador de tela con compartimentos, colgado de la propia barra, crea "cajones" extra sin tocar el mueble.
 
-*Producto recomendado: organizador de armario colgante de tela con compartimentos.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/organizador-colgante-tela-armario.jpg" alt="BrilliantJo Organizador de Armario Colgante con 5 Compartimentos y 6 Bolsillos" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">BrilliantJo Organizador de Armario Colgante con 5 Compartimentos y 6 Bolsillos</p>
+    <a href="https://amzn.to/4fFUfER" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 4. Cajas transparentes apilables para la balda superior
 
 La balda de arriba suele ser la zona muerta del armario: si no ves lo que hay, no lo usas. Unas cajas transparentes y apilables, todas del mismo tamaño, convierten ese hueco en almacenaje real para ropa de temporada o para lo que solo usas de vez en cuando.
 
-*Producto recomendado: set de cajas organizadoras transparentes apilables.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/cajas-transparentes-apilables-ropa.jpg" alt="AHIOVA 3 Cajas de Almacenaje de Plástico Transparentes y Apilables, 15L" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">AHIOVA 3 Cajas de Almacenaje de Plástico Transparentes y Apilables, 15L</p>
+    <a href="https://amzn.to/4xsKIak" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 5. Separadores de balda para que las pilas no se derrumben
 

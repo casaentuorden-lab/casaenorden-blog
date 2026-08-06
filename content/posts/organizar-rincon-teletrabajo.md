@@ -12,19 +12,37 @@ No hace falta un despacho para trabajar bien desde casa: hace falta que ese metr
 
 Cargadores, cable del ratón, del monitor... sin control, todos esos cables se convierten en el mayor foco de desorden visual de cualquier escritorio. Una canaleta o caja organizadora de cables los agrupa y los saca de la vista de una vez.
 
-*Producto recomendado: caja organizadora de cables y regletas.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/organizador-cables-regletas.jpg" alt="D-Line Caja Organizadora de Cables y Regletas de Escritorio, Blanca" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">D-Line Caja Organizadora de Cables y Regletas de Escritorio</p>
+    <a href="https://amzn.to/4wcEv11" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 2. Bandejas apilables para el papeleo
 
 Facturas, notas, documentos pendientes de firmar: todo eso necesita un sitio fijo o termina en pilas sueltas sobre el teclado. Unas bandejas apilables, etiquetadas como "pendiente", "para archivar" y "hecho", resuelven el papeleo en tres categorías simples.
 
-*Producto recomendado: set de bandejas apilables para documentos de escritorio.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/bandejas-apilables-documentos.jpg" alt="PORTENTUM Set de 2 Bandejas Portadocumentos de Malla Metálica, A4" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">PORTENTUM Set de 2 Bandejas Portadocumentos de Malla Metálica, A4</p>
+    <a href="https://amzn.to/3RNIUth" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 3. Un soporte elevador para el portátil
 
 Además de mejorar la postura del cuello, un soporte elevador libera toda la superficie de mesa que antes ocupaba el portátil plano, y crea un hueco debajo perfecto para guardar el teclado o una libreta cuando no lo usas.
 
-*Producto recomendado: soporte elevador ajustable para portátil.* [Ver precio en Amazon](ENLACE-AFILIADO-AQUI)
+<div class="product-card">
+  <img src="/images/productos/soporte-elevador-portatil.jpg" alt="BESIGN LSX7 Soporte para Portátil con Base Giratoria de 360 Grados" class="product-card-img" />
+  <div class="product-card-body">
+    <p class="product-card-name">BESIGN LSX7 Soporte para Portátil con Base Giratoria de 360°</p>
+    <a href="https://amzn.to/4yZXJtl" class="product-card-button">Ver en Amazon →</a>
+  </div>
+</div>
 
 ## 4. Un panel perforado sobre la mesa, si tienes pared libre
 
