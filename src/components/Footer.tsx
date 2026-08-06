@@ -22,6 +22,9 @@ export default function Footer() {
           <Link href="/aviso-afiliados" className="text-bone/85 hover:text-brass">
             Aviso legal de afiliados de Amazon
           </Link>
+          <Link href="/politica-privacidad" className="text-bone/85 hover:text-brass">
+            Política de privacidad
+          </Link>
         </div>
       </Container>
 

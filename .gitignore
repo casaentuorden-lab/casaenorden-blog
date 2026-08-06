@@ -1,5 +1,6 @@
-# tooling
-/.claude/
+# tooling (keep settings.json shared, ignore everything else incl. settings.local.json)
+/.claude/*
+!/.claude/settings.json
 
 # dependencies
 /node_modules
