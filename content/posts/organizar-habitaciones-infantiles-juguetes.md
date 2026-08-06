@@ -12,7 +12,7 @@ Una habitación infantil no se mantiene ordenada porque tú ordenes más rápido
 
 Si el organizador está más alto que ellos, lo van a usar los adultos, no los niños. Cestas ligeras en una balda baja, a la altura de sus brazos, son las que de verdad se usan a diario para recoger.
 
-<div class="product-card">
+<div class="product-card" id="cestas-tela-juguetes">
   <img src="/images/productos/cestas-tela-juguetes.jpg" alt="OrganiHaus Juego de 4 Cubos de Almacenamiento de Tela con Asas de Cuerda" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">OrganiHaus Juego de 4 Cubos de Almacenamiento de Tela con Asas</p>
@@ -28,7 +28,7 @@ Un niño que todavía no lee bien no puede seguir una etiqueta que solo dice "co
 
 Las estanterías bajas y abiertas, sin puertas, permiten que los juguetes estén a la vista y al alcance sin tener que pedir ayuda para abrir un armario. Es más fácil guardar algo en un hueco visible que en un cajón cerrado que no se ve desde fuera.
 
-<div class="product-card">
+<div class="product-card" id="estanteria-baja-montessori">
   <img src="/images/productos/estanteria-baja-montessori.jpg" alt="FOREHILL Mueble de Almacenaje para Juguetes con 8 Cajas Extraíbles, Blanco" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">FOREHILL Mueble de Almacenaje para Juguetes con 8 Cajas Extraíbles</p>
@@ -44,7 +44,7 @@ No hace falta tener todos los juguetes a la vista todo el tiempo. Guardar la mit
 
 Los peluches son de los juguetes más difíciles de guardar bien: no se apilan, no caben en cajones y ocupan mucho por poco peso. Una red o organizador colgante en una esquina los guarda a todos sin ocupar suelo ni balda.
 
-<div class="product-card">
+<div class="product-card" id="organizador-colgante-red-peluches">
   <img src="/images/productos/organizador-colgante-red-peluches.jpg" alt="XIZAO Hamaca de Red de Macramé para Guardar Peluches" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">XIZAO Hamaca de Red de Macramé para Guardar Peluches</p>

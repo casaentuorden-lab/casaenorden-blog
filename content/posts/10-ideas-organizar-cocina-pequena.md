@@ -16,7 +16,7 @@ La mayoría de cocinas pequeñas tienen paredes libres por encima de la encimera
 
 Los armarios bajos suelen ser un agujero negro donde las cosas se apilan sin orden. Un juego de **organizadores de plástico apilables** te permite crear "capas" dentro del armario en lugar de amontonar ollas y sartenes unas sobre otras.
 
-<div class="product-card">
+<div class="product-card" id="organizadores-apilables-armario-cocina">
   <img src="/images/productos/organizadores-apilables-armario-cocina.jpg" alt="SONGMICS Estante para Especias Apilable y Extensible (Juego de 2)" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">SONGMICS Estante para Especias Apilable y Extensible (Juego de 2)</p>
@@ -28,7 +28,7 @@ Los armarios bajos suelen ser un agujero negro donde las cosas se apilan sin ord
 
 Cambiar los paquetes originales de pasta, arroz o legumbres por **botes herméticos de la misma línea** hace que la despensa se vea (y funcione) como la de una revista de decoración. Además, conservan mejor los alimentos y puedes ver de un vistazo cuándo toca reponer.
 
-<div class="product-card">
+<div class="product-card" id="botes-hermeticos-despensa-cristal">
   <img src="/images/productos/botes-hermeticos-despensa-cristal.jpg" alt="Dalena Home Set de 5 Tarros de Cristal Herméticos y Apilables" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Dalena Home Set de 5 Tarros de Cristal Herméticos y Apilables</p>
@@ -40,7 +40,7 @@ Cambiar los paquetes originales de pasta, arroz o legumbres por **botes herméti
 
 El clásico "lazy susan" no pasa de moda porque funciona: en un armario esquinero o en un rincón de la encimera, un **organizador giratorio** evita que tengas que sacar diez botes para llegar al de comino.
 
-<div class="product-card">
+<div class="product-card" id="organizador-giratorio-especias-cocina">
   <img src="/images/productos/organizador-giratorio-especias-cocina.jpg" alt="PIGPIGFLY Especiero Giratorio de Acero Inoxidable para Cocina" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">PIGPIGFLY Especiero Giratorio de Acero Inoxidable para Cocina</p>

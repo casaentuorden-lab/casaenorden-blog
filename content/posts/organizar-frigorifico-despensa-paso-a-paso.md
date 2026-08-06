@@ -20,7 +20,7 @@ En lugar de guardar cada cosa donde haya hueco, fija una zona para cada tipo de 
 
 Las frutas, verduras cortadas o los restos de comida sueltos son los que más desorden visual generan. Unos contenedores transparentes y apilables, pensados para frigorífico, agrupan por categoría y dejan ver el contenido sin tener que abrir cada uno.
 
-<div class="product-card">
+<div class="product-card" id="contenedores-transparentes-apilables-frigorifico">
   <img src="/images/productos/contenedores-transparentes-apilables-frigorifico.jpg" alt="KICHLY Organizadores y Contenedores Transparentes Apilables para Frigorífico" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">KICHLY Organizadores y Contenedores Transparentes Apilables (Pack de 6)</p>
@@ -32,7 +32,7 @@ Las frutas, verduras cortadas o los restos de comida sueltos son los que más de
 
 Un organizador de latas escalonado hace que se vea la etiqueta de todas a la vez, en lugar de tener que sacarlas una a una para leer qué hay detrás. Funciona igual de bien en el frigorífico que en un armario bajo.
 
-<div class="product-card">
+<div class="product-card" id="organizador-latas-cascada">
   <img src="/images/productos/organizador-latas-cascada.jpg" alt="Yumkfoi Organizador de Latas de Bambú de 3 Niveles" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Yumkfoi Organizador de Latas de Bambú de 3 Niveles</p>
@@ -44,7 +44,7 @@ Un organizador de latas escalonado hace que se vea la etiqueta de todas a la vez
 
 Pasta, arroz, legumbres y cereales duran más y ocupan menos en botes herméticos del mismo tamaño que en sus paquetes originales, de formas y alturas distintas. Es el cambio que más se nota a simple vista.
 
-<div class="product-card">
+<div class="product-card" id="dispensador-cereales-despensa">
   <img src="/images/productos/dispensador-cereales-despensa.jpg" alt="Vtopmart Botes de Almacenaje para Despensa, Juego de 24 con Etiquetas" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Vtopmart Botes de Almacenaje para Despensa, Juego de 24 con Etiquetas</p>

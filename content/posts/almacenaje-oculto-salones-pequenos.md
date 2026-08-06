@@ -12,7 +12,7 @@ En un salón pequeño, cada mueble debería tener que justificar el espacio que 
 
 Es probablemente el mueble con mejor relación entre lo que ocupa y lo que guarda: sirve como asiento extra, como reposapiés y, por dentro, como caja fuerte para mantas, cojines de repuesto o juguetes si hay niños en casa.
 
-<div class="product-card">
+<div class="product-card" id="puf-otomana-almacenaje">
   <img src="/images/productos/puf-otomana-almacenaje.jpg" alt="SONGMICS Puf Otomana Redondo con Almacenaje Interior, 65 L" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">SONGMICS Puf Otomana Redondo con Almacenaje Interior, 65 L</p>
@@ -28,7 +28,7 @@ Las mesas de centro con tapa elevable ganan doble función: subes la superficie 
 
 El hueco bajo el mueble de la televisión casi siempre se queda vacío o, peor, se llena de cables a la vista. Dos o tres cestas de fibra a juego con la decoración lo convierten en almacenaje real para mantas, álbumes o juegos de mesa.
 
-<div class="product-card">
+<div class="product-card" id="cestas-fibra-natural-bajo-mueble">
   <img src="/images/productos/cestas-fibra-natural-bajo-mueble.jpg" alt="HMF Cesta de Almacenaje Trenzada de Jacinto de Agua, Juego de 2" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">HMF Cesta de Almacenaje Trenzada de Jacinto de Agua, Juego de 2</p>
@@ -44,7 +44,7 @@ Si tienes un hueco bajo ventana sin usar, un banco con arcón cumple tres funcio
 
 El espacio bajo el sofá suele estar vacío por pura incomodidad de acceso. Una caja plana con ruedas, pensada para ese hueco, resuelve justo eso: se desliza sin esfuerzo y es ideal para lo que usas poco (mantas de invierno, juegos de mesa grandes).
 
-<div class="product-card">
+<div class="product-card" id="caja-organizadora-ruedas-bajo-sofa">
   <img src="/images/productos/caja-organizadora-ruedas-bajo-sofa.jpg" alt="PHINOX Caja de Almacenaje con Ruedas, Metálica, 2 Piezas, Blanca" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">PHINOX Caja de Almacenaje con Ruedas, Metálica (2 Piezas)</p>

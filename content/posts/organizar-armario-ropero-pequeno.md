@@ -16,7 +16,7 @@ Cada prenda doblada en una pila es una prenda que vas a dejar de ver (y de usar)
 
 Este es, con diferencia, el truco que más espacio libera por menos esfuerzo. Las perchas de madera o plástico grueso desperdician centímetros de barra que no tienes. Sustituirlas todas por el mismo modelo fino también da a tu armario ese aire ordenado de tienda de ropa.
 
-<div class="product-card">
+<div class="product-card" id="perchas-finas-antideslizantes-terciopelo">
   <img src="/images/productos/perchas-finas-antideslizantes-terciopelo.jpg" alt="Amazon Basics Paquete de 50 perchas antideslizantes de terciopelo" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Amazon Basics Paquete de 50 perchas antideslizantes de terciopelo</p>
@@ -28,7 +28,7 @@ Este es, con diferencia, el truco que más espacio libera por menos esfuerzo. La
 
 Camisetas, ropa de deporte o pijamas no necesitan estar doblados en una balda donde se desordenan solos. Un organizador de tela con compartimentos, colgado de la propia barra, crea "cajones" extra sin tocar el mueble.
 
-<div class="product-card">
+<div class="product-card" id="organizador-colgante-tela-armario">
   <img src="/images/productos/organizador-colgante-tela-armario.jpg" alt="BrilliantJo Organizador de Armario Colgante con 5 Compartimentos y 6 Bolsillos" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">BrilliantJo Organizador de Armario Colgante con 5 Compartimentos y 6 Bolsillos</p>
@@ -40,7 +40,7 @@ Camisetas, ropa de deporte o pijamas no necesitan estar doblados en una balda do
 
 La balda de arriba suele ser la zona muerta del armario: si no ves lo que hay, no lo usas. Unas cajas transparentes y apilables, todas del mismo tamaño, convierten ese hueco en almacenaje real para ropa de temporada o para lo que solo usas de vez en cuando.
 
-<div class="product-card">
+<div class="product-card" id="cajas-transparentes-apilables-ropa">
   <img src="/images/productos/cajas-transparentes-apilables-ropa.jpg" alt="AHIOVA 3 Cajas de Almacenaje de Plástico Transparentes y Apilables, 15L" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">AHIOVA 3 Cajas de Almacenaje de Plástico Transparentes y Apilables, 15L</p>

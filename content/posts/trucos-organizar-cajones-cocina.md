@@ -12,7 +12,7 @@ Hay dos cajones en toda cocina que se desordenan más rápido que ningún otro m
 
 Los organizadores de plástico de toda la vida vienen con compartimentos de un tamaño fijo que casi nunca encaja con tu cajón ni con tus cubiertos. Los modelos ajustables o expandibles se adaptan al ancho exacto del cajón y evitan ese hueco muerto al final que se llena de todo lo demás.
 
-<div class="product-card">
+<div class="product-card" id="organizador-cubiertos-expandible">
   <img src="/images/productos/organizador-cubiertos-expandible.jpg" alt="Lifewit Organizador de Cubiertos para Cajón, Extensible hasta 36 Pulgadas" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Lifewit Organizador de Cubiertos para Cajón, Extensible hasta 36 Pulgadas</p>
@@ -24,7 +24,7 @@ Los organizadores de plástico de toda la vida vienen con compartimentos de un t
 
 Espátulas, cucharones y batidores no caben en un organizador de cubiertos, así que suelen amontonarse en el cajón de al lado. Unos separadores expandibles de malla o metal crean carriles verticales donde cada utensilio queda de pie y a la vista.
 
-<div class="product-card">
+<div class="product-card" id="separadores-expandibles-utensilios-cocina">
   <img src="/images/productos/separadores-expandibles-utensilios-cocina.jpg" alt="Utoplike Organizador de Utensilios de Cocina Extensible de Bambú" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Utoplike Organizador de Utensilios de Cocina Extensible de Bambú</p>
@@ -36,7 +36,7 @@ Espátulas, cucharones y batidores no caben en un organizador de cubiertos, así
 
 El problema real de los tuppers casi nunca son los propios recipientes, sino las tapas sueltas. Un organizador vertical tipo archivador, donde cada tapa queda de pie como si fuera un libro, hace que encontrar la que buscas te lleve tres segundos en vez de vaciar el cajón entero.
 
-<div class="product-card">
+<div class="product-card" id="organizador-vertical-tapas-tupper">
   <img src="/images/productos/organizador-vertical-tapas-tupper.jpg" alt="Lifewit Organizador de Tapas para Tuppers, Expandible 34-62 cm" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Lifewit Organizador de Tapas para Tuppers, Expandible 34-62 cm</p>

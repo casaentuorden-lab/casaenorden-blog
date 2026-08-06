@@ -12,7 +12,7 @@ El armario de la limpieza suele ser el gran olvidado: no lo ve nadie más que t�
 
 En lugar de guardar productos sueltos que luego tienes que reunir cada vez que limpias, un caddy con asa te permite tener ya montado "el kit de limpieza" y llevarlo contigo de una habitación a otra en un solo viaje.
 
-<div class="product-card">
+<div class="product-card" id="caddy-portatil-limpieza">
   <img src="/images/productos/caddy-portatil-limpieza.jpg" alt="Vileda Cleaning Caddy, organizador de limpieza portátil con 6 compartimentos" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Vileda Cleaning Caddy, organizador portátil con 6 compartimentos</p>
@@ -28,7 +28,7 @@ Es habitual que algún bote gotee o se quede algo húmedo por debajo. Una bandej
 
 Los botes con pistola pulverizadora son los que peor se apilan: ocupan sitio de pie y estorban al resto. Un organizador de rejilla en la puerta del armario los deja colgados por el cuello del gatillo, liberando toda la balda de abajo.
 
-<div class="product-card">
+<div class="product-card" id="organizador-puerta-sprays-limpieza">
   <img src="/images/productos/organizador-puerta-sprays-limpieza.jpg" alt="Wuciray Organizador Colgante de Puerta, Acero Inoxidable con 6 Cestas y 4 Ganchos" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">Wuciray Organizador Colgante de Puerta, Acero Inoxidable, 6 Cestas y 4 Ganchos</p>
@@ -52,7 +52,7 @@ Agrupa los productos por dónde se usan (baño, cocina, suelos, cristales) en ve
 
 Bayetas, guantes y estropajos sueltos en el fondo del armario son los primeros en desordenarlo todo (y en no secarse bien). Un organizador colgante con compartimentos de rejilla los mantiene aireados y clasificados por uso.
 
-<div class="product-card">
+<div class="product-card" id="organizador-colgante-bayetas-guantes">
   <img src="/images/productos/organizador-colgante-bayetas-guantes.jpg" alt="QIWODE Organizador de Puerta y Pared de Rejilla para Cocina, Armario o Baño" class="product-card-img" />
   <div class="product-card-body">
     <p class="product-card-name">QIWODE Organizador de Puerta y Pared de Rejilla</p>
